@@ -1,4 +1,4 @@
-### HMM_wordRecog
+### HMM_digitRecog
 
 This project is based on designing HMM model for spoken digit recognition from mfcc features. 
 
