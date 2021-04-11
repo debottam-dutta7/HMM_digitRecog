@@ -5,4 +5,4 @@ This project is based on designing HMM model for spoken digit recognition from m
 All the codes written in MATLAB. 
 
 Instructions to run:
-1. run the one_main_phn.m file.
+1. run the /code/one_main_phn.m file.
