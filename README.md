@@ -1,3 +1,8 @@
 # HMM_wordRecog
 
 This project is based on designing HMM model for spoken digit recognition from mfcc features. 
+
+All the codes written in MATLAB. 
+
+Instructions to run:
+1. run the one_main_phn.m file.
